@@ -1,2 +1,7 @@
-# SwingDrawingProgram
-Simple Little drawing program in Java Swing ... Originally a HW assignment 
+# Simple Drawing Program
+Simple Little drawing program
+
+
+
+## Made With
+* Java's Swing UI Framework
