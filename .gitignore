@@ -1,0 +1,6 @@
+# gitignore for Eclipse
+
+*.meta
+*/meta/
+
+# We shouldn't ignore the .class files since they are needed for Swing
